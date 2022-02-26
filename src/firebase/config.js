@@ -7,7 +7,7 @@ import 'firebase/firestore';
 
 var firebaseConfig = {
   apiKey: "AIzaSyDVU0Unrdm-eXacwXwHTlTxb_778iZUyn0",
-  authDomain: process.env.DOMAIN_URL,
+  authDomain: process.env.REACT_APP_DOMAIN_URL,
   projectId: "chattest-aefa4",
   storageBucket: "chattest-aefa4.appspot.com",
   messagingSenderId: "1007967566230",
