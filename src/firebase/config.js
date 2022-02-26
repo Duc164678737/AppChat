@@ -7,7 +7,7 @@ import 'firebase/firestore';
 
 var firebaseConfig = {
   apiKey: "AIzaSyDVU0Unrdm-eXacwXwHTlTxb_778iZUyn0",
-  authDomain: process.env.REACT_APP_DOMAIN_URL,
+  authDomain: "quirky-colden-7eb4ee.netlify.app",
   projectId: "chattest-aefa4",
   storageBucket: "chattest-aefa4.appspot.com",
   messagingSenderId: "1007967566230",
